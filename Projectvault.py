@@ -80,3 +80,4 @@ print ('''
   ████████████   █████████████████
   
 ''') 
+cls=str(input('PRESS ENTER '))
