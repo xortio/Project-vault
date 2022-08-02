@@ -10,6 +10,6 @@ the instalation method for command prompt is given a folder
 
 __________this process can be done without cmd_________
 
-do not try to modify the given code unless you are a programmer (except to change your password)
+do not try to modify the given code (except to change your password)
 
 it is not recommended to move your vault location if needed you may creat another vault by repeating the instalation steps moving a vault may cause data lose if accidentally moved move it back to its original path to get your data back.
